@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+}
+header{
+	background-image: url(..images/bg.jpg);
+    padding: 300px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    background-color: #622d03;
+    background-blend-mode: exclusion;
+}
+.container{
+	width: 1200px;
+	margin: auto;
+	overflow: hidden;
+}
+.col-1{
+	width: 60%;
+	float: left;
+}
+.col-2{
+	width: 40%;
+	float: left;
+}
+
+img{
+	max-width: 100%;
+	width: 350px;
+	margin-left: auto;
+	display: block;
+}
+
+h1{
+	font-size: 80px;
+	color: #fff;
+	margin: 0;
+}
+header p{
+	color: #fff;
+	font-size: 40px;
+}
+a{
+	background-color: #e91e63;
+	color: #fff;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 10px 30px;  
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.about-pnp h1{
+
+}
